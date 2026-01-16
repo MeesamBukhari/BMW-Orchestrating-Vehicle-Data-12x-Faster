@@ -45,4 +45,4 @@ By leveraging Azure’s AI infrastructure, BMW significantly improved its **R&D 
 **Author:** Syed Meesam Turab Bukhari  
 **Batch:** 78 – Q2  
 **PIAIC ID:** PIAIC224824   
-**Presentation Link:** [Google Drive Link](https://drive.google.com/file/d/1ntG7b-c49emFUUNTKXZ5STah16MErkZd/view?usp=sharing)
+**Presentation & PDF Link:** [Google Drive Link](https://drive.google.com/drive/folders/1UjD5VSHR65de6ca24FXNYuw2Xpzd-t9a?usp=sharing)
